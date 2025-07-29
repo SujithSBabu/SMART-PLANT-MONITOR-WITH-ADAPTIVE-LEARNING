@@ -41,5 +41,7 @@ A lightweight embedded system that simulates intelligent plant monitoring using 
 
 **Software Requirements:**
 1)Language: C
+
 2)IDE: Embedded IDE (STM32CubeIDE, Keil, etc.)
+
 3)Version control :Git
