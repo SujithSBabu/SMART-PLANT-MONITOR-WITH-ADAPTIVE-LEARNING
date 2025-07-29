@@ -1,0 +1,3 @@
+../Driver/Src/sys_tick.c:15:6:SysTick_Init	16	static
+../Driver/Src/sys_tick.c:25:6:delay_ms	24	static
+../Driver/Src/sys_tick.c:36:6:log_current_time	24	static

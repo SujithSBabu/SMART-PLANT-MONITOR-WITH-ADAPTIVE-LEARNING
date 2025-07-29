@@ -1,0 +1,3 @@
+../Driver/Src/uart.c:11:6:gpio_init	1
+../Driver/Src/uart.c:36:6:usart_init	1
+../Driver/Src/uart.c:51:6:usart_transmit	2

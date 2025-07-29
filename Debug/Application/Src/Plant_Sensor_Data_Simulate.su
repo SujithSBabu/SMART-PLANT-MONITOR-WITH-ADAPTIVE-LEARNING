@@ -1,0 +1,4 @@
+../Application/Src/Plant_Sensor_Data_Simulate.c:12:6:sensor_data_plant	16	static
+../Application/Src/Plant_Sensor_Data_Simulate.c:23:9:simulated_moisture_data	16	static
+../Application/Src/Plant_Sensor_Data_Simulate.c:34:9:simulated_temperature_data	16	static
+../Application/Src/Plant_Sensor_Data_Simulate.c:45:10:simulated_light_data	16	static
